@@ -1,5 +1,14 @@
 # Loops
 
+## Number
+
+[For loops](https://docs.python.org/3/reference/compound_stmts.html#the-for-statement) takes each item in an array or collection in order, and assigns it to the variable you define.
+
+``` python
+for index in range(0, 2):
+	print(index)
+```
+
 ## For loops
 
 [For loops](https://docs.python.org/3/reference/compound_stmts.html#the-for-statement) takes each item in an array or collection in order, and assigns it to the variable you define.
